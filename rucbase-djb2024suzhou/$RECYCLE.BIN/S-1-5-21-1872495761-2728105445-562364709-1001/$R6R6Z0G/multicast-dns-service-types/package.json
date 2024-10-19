@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "multicast-dns-service-types@1.1.0",
+      "G:\\毕设资源汇总\\咸鱼\\小程序\\毕业程序员微信小程序\\小程序第二批\\1.11\\在线医生答疑系统小程序\\01-abo\\小程序\\小程序毕业设计1\\基于微信小程序的在线医生答疑系统\\在线医生答疑系统小程序\\ssmd49s5\\src\\main\\webapp\\admin"
+    ]
+  ],
+  "_development": true,
+  "_from": "multicast-dns-service-types@1.1.0",
+  "_id": "multicast-dns-service-types@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-iZ8R2WhuXgXLkbNdXw5jt3PPyQE=",
+  "_location": "/multicast-dns-service-types",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "multicast-dns-service-types@1.1.0",
+    "name": "multicast-dns-service-types",
+    "escapedName": "multicast-dns-service-types",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "/bonjour"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/multicast-dns-service-types/download/multicast-dns-service-types-1.1.0.tgz",
+  "_spec": "1.1.0",
+  "_where": "G:\\毕设资源汇总\\咸鱼\\小程序\\毕业程序员微信小程序\\小程序第二批\\1.11\\在线医生答疑系统小程序\\01-abo\\小程序\\小程序毕业设计1\\基于微信小程序的在线医生答疑系统\\在线医生答疑系统小程序\\ssmd49s5\\src\\main\\webapp\\admin",
+  "author": {
+    "name": "Mathias Buus",
+    "url": "@mafintosh"
+  },
+  "bugs": {
+    "url": "https://github.com/mafintosh/multicast-dns-service-types/issues"
+  },
+  "dependencies": {},
+  "description": "Parse and stringify mdns service types",
+  "devDependencies": {
+    "standard": "^3.5.0",
+    "tape": "^4.0.0"
+  },
+  "homepage": "https://github.com/mafintosh/multicast-dns-service-types",
+  "keywords": [
+    "mdns",
+    "bonjour",
+    "zero",
+    "conf"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "multicast-dns-service-types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafintosh/multicast-dns-service-types.git"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "version": "1.1.0"
+}
